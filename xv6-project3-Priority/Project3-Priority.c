@@ -1,9 +1,9 @@
 /*
-  David Shull
+  Yilin Yang
+  Olivia Shanley
   Operating Systems
   Dr. Sejong Yoon
   The College of New Jersey
-  September 30th, 2016
 */
 
 #include <stdio.h>
